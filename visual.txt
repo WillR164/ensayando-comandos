@@ -1,1 +1,3 @@
 creando un archivo txt desde visual, para practicar con git.
+
+desde la rama animals se crea un txt con diferentes animales
