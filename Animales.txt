@@ -1,5 +1,5 @@
 - perro
 - vaca
-- LORO
+- Loro
 - pez
 - gato
